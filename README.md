@@ -1,7 +1,7 @@
 # SF Elections Data
 
 [SF Elections Data][sf_elections_data] is a project to expand the amount
-of open data and open source tools to work with an Francisco elections.
+of open data and open source tools to work with San Francisco elections.
 
 Current projects include--
 
