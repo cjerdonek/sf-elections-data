@@ -5,7 +5,7 @@ of open data and open source tools to work with an Francisco elections.
 
 Current projects include--
 
-* [SF Base Election Data (SFBED).][SFBED] A JSON file that captures
+* [SF Base Election Data (SFBED).][SFBED] A JSON file that captures the
   information about San Francisco elections that tends to remain the
   same from election to election.
 * [WinEDS Converter.][WinEDS] A tool to make San Francisco precinct-level
@@ -15,6 +15,8 @@ Current projects include--
   also a Knight News Challenge [submission][knight_submission].
 
 SF Elections Data is a project of [Code for San Francisco][code_for_sf].
+
+To get involved, contact Chris Jerdonek at <chris.jerdonek@gmail.com>.
 
 
 [code_for_sf]: http://codeforsanfrancisco.org/
